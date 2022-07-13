@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\sandr\source\repos\Interproccess Communication\TypeBProgramA\main.cpp(61,29): warning C4267: '=': conversion from 'size_t' to 'unsigned char', possible loss of data
+  TypeBProgramA.vcxproj -> C:\Users\sandr\source\repos\Interproccess Communication\x64\Debug\TypeBProgramA.exe

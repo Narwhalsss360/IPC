@@ -1,0 +1,8 @@
+C:\Users\sandr\source\repos\Interproccess Communication\PracticalC\bin\Debug\PracticalC.exe.config
+C:\Users\sandr\source\repos\Interproccess Communication\PracticalC\bin\Debug\PracticalC.exe
+C:\Users\sandr\source\repos\Interproccess Communication\PracticalC\bin\Debug\PracticalC.pdb
+C:\Users\sandr\source\repos\Interproccess Communication\PracticalC\obj\Debug\PracticalC.csproj.AssemblyReference.cache
+C:\Users\sandr\source\repos\Interproccess Communication\PracticalC\obj\Debug\PracticalC.csproj.SuggestedBindingRedirects.cache
+C:\Users\sandr\source\repos\Interproccess Communication\PracticalC\obj\Debug\PracticalC.csproj.CoreCompileInputs.cache
+C:\Users\sandr\source\repos\Interproccess Communication\PracticalC\obj\Debug\PracticalC.exe
+C:\Users\sandr\source\repos\Interproccess Communication\PracticalC\obj\Debug\PracticalC.pdb
