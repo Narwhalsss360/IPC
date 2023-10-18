@@ -41,6 +41,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HostProcess", "TypeCPipes\T
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CPPCommon", "TypeCPipes\TypeCPractical\CPPCommon\CPPCommon.vcxitems", "{7958C914-EBA0-4482-81B1-5497CE9546FA}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ClientProcess1", "ClientProcess1\ClientProcess1.vcxproj", "{EFE73595-49B5-4723-8B4F-EEF2C9073E47}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -183,6 +185,18 @@ Global
 		{F4F9BF9E-8536-42D1-A6C9-22AE7BBDAF52}.Release|x64.Build.0 = Release|x64
 		{F4F9BF9E-8536-42D1-A6C9-22AE7BBDAF52}.Release|x86.ActiveCfg = Release|Win32
 		{F4F9BF9E-8536-42D1-A6C9-22AE7BBDAF52}.Release|x86.Build.0 = Release|Win32
+		{EFE73595-49B5-4723-8B4F-EEF2C9073E47}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{EFE73595-49B5-4723-8B4F-EEF2C9073E47}.Debug|Any CPU.Build.0 = Debug|x64
+		{EFE73595-49B5-4723-8B4F-EEF2C9073E47}.Debug|x64.ActiveCfg = Debug|x64
+		{EFE73595-49B5-4723-8B4F-EEF2C9073E47}.Debug|x64.Build.0 = Debug|x64
+		{EFE73595-49B5-4723-8B4F-EEF2C9073E47}.Debug|x86.ActiveCfg = Debug|Win32
+		{EFE73595-49B5-4723-8B4F-EEF2C9073E47}.Debug|x86.Build.0 = Debug|Win32
+		{EFE73595-49B5-4723-8B4F-EEF2C9073E47}.Release|Any CPU.ActiveCfg = Release|x64
+		{EFE73595-49B5-4723-8B4F-EEF2C9073E47}.Release|Any CPU.Build.0 = Release|x64
+		{EFE73595-49B5-4723-8B4F-EEF2C9073E47}.Release|x64.ActiveCfg = Release|x64
+		{EFE73595-49B5-4723-8B4F-EEF2C9073E47}.Release|x64.Build.0 = Release|x64
+		{EFE73595-49B5-4723-8B4F-EEF2C9073E47}.Release|x86.ActiveCfg = Release|Win32
+		{EFE73595-49B5-4723-8B4F-EEF2C9073E47}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -204,16 +218,20 @@ Global
 		{78B663AC-1234-41CF-821D-3A8BA6EB8EE1} = {25F3C7F0-5451-4458-99C5-240362D89A53}
 		{F4F9BF9E-8536-42D1-A6C9-22AE7BBDAF52} = {85C21E0D-EABD-4B94-9EE8-9BE99099C34B}
 		{7958C914-EBA0-4482-81B1-5497CE9546FA} = {85C21E0D-EABD-4B94-9EE8-9BE99099C34B}
+		{EFE73595-49B5-4723-8B4F-EEF2C9073E47} = {85C21E0D-EABD-4B94-9EE8-9BE99099C34B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EC03B4DF-33E1-414D-9817-711928E6B2C3}
 	EndGlobalSection
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
 		TypeCPipes\TypeCCommon\TypeCCommon.vcxitems*{006190f7-6117-45e4-876f-70d1b89299af}*SharedItemsImports = 4
+		TypeBFileMap\TypeBPractical\PracticalCommon\PracticalCommon.vcxitems*{198f7158-72a7-4312-9e18-da3375796efa}*SharedItemsImports = 9
 		TypeBFileMap\TypeBPractical\PracticalCommon\PracticalCommon.vcxitems*{212341d5-eef1-419f-8c8a-e9d70562d557}*SharedItemsImports = 4
+		TypeCPipes\TypeCCommon\TypeCCommon.vcxitems*{78b663ac-1234-41cf-821d-3a8ba6eb8ee1}*SharedItemsImports = 9
 		TypeCPipes\TypeCPractical\CPPCommon\CPPCommon.vcxitems*{7958c914-eba0-4482-81b1-5497ce9546fa}*SharedItemsImports = 9
 		TypeBFileMap\TypeBPractical\PracticalCommon\PracticalCommon.vcxitems*{83324019-a201-49bf-883f-63f773736208}*SharedItemsImports = 4
 		TypeCPipes\TypeCCommon\TypeCCommon.vcxitems*{8c76d414-29fe-469e-a5b4-c133043344c6}*SharedItemsImports = 4
+		TypeCPipes\TypeCPractical\CPPCommon\CPPCommon.vcxitems*{efe73595-49b5-4723-8b4f-eef2c9073e47}*SharedItemsImports = 4
 		TypeCPipes\TypeCPractical\CPPCommon\CPPCommon.vcxitems*{f4f9bf9e-8536-42d1-a6c9-22ae7bbdaf52}*SharedItemsImports = 4
 	EndGlobalSection
 EndGlobal

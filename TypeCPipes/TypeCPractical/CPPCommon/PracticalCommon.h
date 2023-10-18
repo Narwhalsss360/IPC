@@ -1,2 +1,2 @@
 #pragma once
-#define PIPE_OPEN_REQUEST_NAME "\\\\.\\pipe\\Practical\\open_request"
+#define PIPE_OPEN_REQUEST_NAME "Practical\\open_request"

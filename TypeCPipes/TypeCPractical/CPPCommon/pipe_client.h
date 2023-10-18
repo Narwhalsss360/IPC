@@ -11,6 +11,10 @@ struct pipe_client
 
 	pipe_client(std::string pipe_name);
 
+	void connect();
+
+	int sendMessage(void* buffer, size_t length);
+
 	~pipe_client() noexcept;
 
 private:

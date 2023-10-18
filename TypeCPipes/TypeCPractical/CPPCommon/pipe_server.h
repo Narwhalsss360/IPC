@@ -1,6 +1,7 @@
 #pragma once
 #include <string>
 #include <Windows.h>
+#include <vector>
 
 struct pipe_server
 {
@@ -10,7 +11,13 @@ struct pipe_server
 
 	pipe_server(std::string pipe_name);
 
+	void create();
+
 	void connect();
+
+	int sendMessage(void* buffer, size_t length);
+
+	std::vector<uint8_t> readMessage();
 
 	void disconnect();
 
